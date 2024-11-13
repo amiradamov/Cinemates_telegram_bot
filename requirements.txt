@@ -1,0 +1,14 @@
+# Telegram Bot API
+python-telegram-bot==21.6
+
+# For making HTTP requests
+requests==2.32.3
+
+# For language detection
+langdetect==1.0.9
+
+# For translating text
+translate==3.6.1
+
+# Logging
+logging==0.5.1.2
